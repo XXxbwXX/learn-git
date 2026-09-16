@@ -22,6 +22,8 @@
 
 - [08 remote / push / pull / fetch 的关系](/git/08-remote)
 - [09 reset、revert、reflog：三大后悔药](/git/09-undo)
-- .gitignore 与「已经提交了敏感文件怎么办」（待写）
+- [10 .gitignore 与「已经提交了敏感文件怎么办」](/git/10-gitignore)
+
+> 全书 10 课完结。学习顺序建议按编号走，实验务必亲手做。
 
 > 持续更新中，目录随课程推进补充。

@@ -61,4 +61,4 @@ git reflog
 - revert 是反向提交，共享历史的唯一礼貌；
 - reflog 是 HEAD 移动档案，提交过就找得回来。
 
-> 下一篇：.gitignore 与「已经提交了敏感文件怎么办」（待写）
+> 下一篇：[.gitignore 与「已经提交了敏感文件怎么办」](/git/10-gitignore)
