@@ -16,7 +16,7 @@
 
 - [05 分支与 HEAD：指针游戏](/git/05-branch)
 - [06 merge 与冲突处理](/git/06-merge)
-- rebase：改写历史的规则（待写）
+- [07 rebase：改写历史的规则](/git/07-rebase)
 
 ## 第四章 · 远程与事故恢复（待写）
 
