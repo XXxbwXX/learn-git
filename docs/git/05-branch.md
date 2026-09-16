@@ -60,4 +60,4 @@ git checkout a1b2c3d
 - HEAD 指分支、分支指提交，提交时指针链整体前移；
 - detached HEAD 只是「站在提交上看」，提交前先落个分支。
 
-> 下一篇：merge 与冲突处理（待写）
+> 下一篇：[merge 与冲突处理](/git/06-merge)
