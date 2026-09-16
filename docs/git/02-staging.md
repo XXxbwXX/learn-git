@@ -43,7 +43,7 @@ git diff --staged   # 暂存区 vs 最近提交：即将被 commit 的内容
 ## 四、把文件移出候选名单
 
 ```bash
-git restore --staged note.txt   # 撤销候选（文件内容不动）
+git restore --staged note.txt   # 撤销候选（文件内容不动；老版本 Git 用 git reset HEAD note.txt）
 ```
 
 注意：这只是把文件从「名单」里拿掉，你写的东西一个字都不会丢。
