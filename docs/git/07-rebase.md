@@ -75,4 +75,4 @@ git rebase --abort      # 全部放弃，回到 rebase 前
 - 黄金法则：已共享的提交不 rebase；
 - `-i` 交互模式是提交整理器：pick / reword / squash / drop。
 
-> 下一篇：remote / push / pull / fetch 的关系（待写）
+> 下一篇：[remote / push / pull / fetch 的关系](/git/08-remote)

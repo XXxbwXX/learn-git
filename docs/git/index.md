@@ -18,10 +18,10 @@
 - [06 merge 与冲突处理](/git/06-merge)
 - [07 rebase：改写历史的规则](/git/07-rebase)
 
-## 第四章 · 远程与事故恢复（待写）
+## 第四章 · 远程与事故恢复
 
-- remote / push / pull / fetch 的关系
-- reset、revert、reflog：三大后悔药
-- .gitignore 与「 already committed 怎么办」
+- [08 remote / push / pull / fetch 的关系](/git/08-remote)
+- reset、revert、reflog：三大后悔药（待写）
+- .gitignore 与「已经提交了敏感文件怎么办」（待写）
 
 > 持续更新中，目录随课程推进补充。
