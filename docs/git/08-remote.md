@@ -63,4 +63,4 @@ git push
 - fetch 只下载不动工作区，pull = fetch + 整合；
 - push 被拒是保护机制：fetch 看差异 → pull --rebase → 再 push。
 
-> 下一篇：reset、revert、reflog：三大后悔药（待写）
+> 下一篇：[reset、revert、reflog：三大后悔药](/git/09-undo)

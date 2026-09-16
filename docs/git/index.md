@@ -21,7 +21,7 @@
 ## 第四章 · 远程与事故恢复
 
 - [08 remote / push / pull / fetch 的关系](/git/08-remote)
-- reset、revert、reflog：三大后悔药（待写）
+- [09 reset、revert、reflog：三大后悔药](/git/09-undo)
 - .gitignore 与「已经提交了敏感文件怎么办」（待写）
 
 > 持续更新中，目录随课程推进补充。
