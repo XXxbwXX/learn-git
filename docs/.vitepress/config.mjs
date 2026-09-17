@@ -58,6 +58,7 @@ export default defineConfig({
         { text: '🧱 Web 基础学习站', link: 'https://web-basics.myxbw.cn/' },
         { text: '🗄️ 数据库原理及其应用', link: 'https://mysql.myxbw.cn/' },
         { text: '🚩 CTF 学习站', link: 'https://ctf.myxbw.cn/' },
+        { text: '🧰 开发者工具箱', link: 'https://tools.myxbw.cn/' },
         { text: '📝 个人博客', link: 'https://blog.myxbw.cn/' }
       ] }
     ],
@@ -81,7 +82,7 @@ export default defineConfig({
       }
     },
     footer: {
-      message: '<a href="https://learn.myxbw.cn/">全站导航</a> · <a href="https://linux.myxbw.cn/">Linux 与命令行</a> · <a href="https://web-basics.myxbw.cn/">Web 基础</a> · <a href="https://mysql.myxbw.cn/">数据库</a> · <a href="https://ctf.myxbw.cn/">CTF 学习站</a>',
+      message: '<a href="https://learn.myxbw.cn/">全站导航</a> · <a href="https://linux.myxbw.cn/">Linux 与命令行</a> · <a href="https://web-basics.myxbw.cn/">Web 基础</a> · <a href="https://mysql.myxbw.cn/">数据库</a> · <a href="https://ctf.myxbw.cn/">CTF 学习站</a> · <a href="https://tools.myxbw.cn/">开发者工具箱</a>',
       copyright: 'Copyright © 2026 Git 与版本控制'
     }
   }
